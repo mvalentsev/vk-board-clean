@@ -1,0 +1,28 @@
+{
+  "name": "vk-board-clean",
+  "version": "1.0.0",
+  "description": "Скрипт для авто-чистки дублей в «Обсуждениях» VK",
+  "private": true,
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "vk",
+    "vk-io",
+    "discussions",
+    "board",
+    "cleanup",
+    "dedup"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18",
+    "npm": ">=9"
+  },
+  "dependencies": {
+    "vk-io": "^4.9.1"
+  }
+}
