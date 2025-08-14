@@ -23,6 +23,7 @@
     "npm": ">=9"
   },
   "dependencies": {
+    "dotenv": "^17.2.1",
     "vk-io": "^4.9.1"
   }
 }
